@@ -1,4 +1,4 @@
-package day03
+package stueded.day03
 import scala.math._
 /**
  * @author: lmx

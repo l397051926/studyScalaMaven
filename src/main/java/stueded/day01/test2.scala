@@ -1,4 +1,4 @@
-package day01
+package stueded.day01
 
 /**
  * @author: lmx
